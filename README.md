@@ -13,5 +13,5 @@ Conversion-focused landing page built for a personal injury law firm targeting S
 ## Tech Stack
 HTML, CSS, JavaScript
 
-## Preview
-![preview](preview.png)
+## Live Demo
+[Ver página en vivo](https://terry-stang92.github.io/legal-landing-page-lawfirm/)
